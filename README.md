@@ -8,7 +8,7 @@ I also created firmware (C, C++) for most of these boards, as they contain progr
 #
 
 
-**High-Fidelity Audio DAC — ES9038PRO**
+### High-Fidelity Audio DAC — ES9038PRO
 A complete 32-bit digital-to-analog converter device with plug-and-play capability.
 
 **Highlights**
@@ -21,7 +21,9 @@ A complete 32-bit digital-to-analog converter device with plug-and-play capabili
   
 <img width="2166" height="2102" alt="1098308099909836114" src="https://github.com/user-attachments/assets/05b30366-5f96-443d-ac4b-abaad7fff770" />
 
-**Prototype master board for electric motorcycle**
+---
+
+### Prototype master board for electric motorcycle
 A master board that receives data from peripheral devices, processes and controls the vehicle's functions.
 
 **Highlights**
@@ -31,17 +33,21 @@ A master board that receives data from peripheral devices, processes and control
 
 <img width="4000" height="3000" alt="20260921_144814" src="https://github.com/user-attachments/assets/7173a71d-69b6-49d0-b06b-9f126ae9aaa2" />
 
-**Flexible matrix LEDs**
+---
+
+### Flexible matrix LEDs
 A Flexible PCB with multiple WS2812-2020 LEDs to display icons, numbers,... for the electric motorcycle.
 
 <img width="4000" height="3000" alt="20260921_162007" src="https://github.com/user-attachments/assets/137873d9-6ae6-4bb9-9154-52e574ccd2f2" />
 
-**Prototype peripheral board**
+### Prototype peripheral board
 A peripheral board to receive data from multiple sensors and send it to the master board via UART.
 
 <img width="4000" height="3000" alt="20260921_144943" src="https://github.com/user-attachments/assets/128a95a0-f1fd-4a4c-9b03-f97b243a02c0" />
 
-**Smart helmet**
+---
+
+### Smart helmet
 A smart helmet that can receive incoming calls, play music, and communicate with other devices in the bluetooth range. 
 
 **Highlights**
