@@ -14,12 +14,26 @@ A complete 32-bit digital-to-analog converter device with plug-and-play capabili
 **Highlights**
 - ES9038PRO IC as the processing center with delta-sigma technology.
 - Several separated super low-noise linear power supplies.
-- IV converter with 2nd-order low-pass filter.
+- IV converter with 3rd-order low-pass filter.
 - Integrated output buffer provides low output impedance.
 - Input: USB, Coaxial, SPDIF.
 - Output: Analog XLR, RCA.
   
 <img width="2166" height="2102" alt="1098308099909836114" src="https://github.com/user-attachments/assets/05b30366-5f96-443d-ac4b-abaad7fff770" />
+
+---
+
+### Integrated Amplifier - LM3886
+A low-cost class AB amplifier with an additional pre-amp stage
+
+**Highlights**
+- 50W RMS max output.
+- Linear power supply for pre-amp stage
+- Built-in 2nd-order low-pass filter at the input.
+- Input: Analog RCA.
+- Output: 2-channel speakers.
+  
+<img width="1529" height="1940" alt="037cce7c-8a3e-44f4-ab75-6679e61d10fd" src="https://github.com/user-attachments/assets/c334bc02-fa41-45c9-b348-dd36392d850a" />
 
 ---
 
